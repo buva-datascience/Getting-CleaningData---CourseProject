@@ -1,5 +1,5 @@
 <!------------------------------------------------------
-title: "Readme.md"
+title: "ReadMe.md"
 author: "Buva Ramamoorthy"
 date: "July 23, 2014"
 output: html_document
