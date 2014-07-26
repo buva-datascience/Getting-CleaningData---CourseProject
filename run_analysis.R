@@ -45,6 +45,7 @@ dwld_file("https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20
 ##################
 # Step 1 --> Merge the training and the test sets to create one data set.
 ##################
+#
 activitylabel   <- read.table("./UCI HAR Dataset/activity_labels.txt")          # read the activity labels to a table
 colnames(activitylabel)  <- c("id","activitytype")                              # assign column names
 
@@ -91,7 +92,6 @@ FinalData       <- rbind(trainingdata, testdata)
 #check for dimensions
 dim(FinalData)
 # Ans: 10299 X 564
-
 
 ##################
 # Step 2 --> Extract only the measurements on the mean and standard deviation for each measurement. 
