@@ -20,7 +20,7 @@
 #  ------------------------------------------------------------------------------------------------------------------------ 
 #
 # Prepare working directory
-wd <- "/Users/sangeethabuvanendiran/Documents/Buva- Data Science/Getting and Cleaning Data/Course Project/"
+wd <- "/Users/sbuva/Documents/Buva- Data Science/Getting and Cleaning Data/Course Project/"
 setwd(wd)
 
 # function to Download the file from the website location to the local directory
