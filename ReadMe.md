@@ -2,7 +2,7 @@
 title: "ReadMe.md"
 author: "Buva Ramamoorthy"
 date: "July 23, 2014"
-output: html_document
+output: MarkDown Document
 ------------------------------------------------------->
         
 # **Getting and Cleaning Data - Course Project**
@@ -25,18 +25,18 @@ description of the data is available at [UCI Machine Learning Repository](http:/
 ## Course Project Summary
 
 The course project instructions are described below:
-Create a R script called run_analysis.R that does the following. 
--- Merges the training and the test sets to create one data set.
--- Extracts only the measurements on the mean and standard deviation for each measurement. 
--- Uses descriptive activity names to name the activities in the data set
--- Appropriately labels the data set with descriptive variable names. 
--- Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
+Create a R script called **run_analysis.R** that does the following. 
+- Merges the training and the test sets to create one data set.
+- Extracts only the measurements on the mean and standard deviation for each measurement. 
+- Uses descriptive activity names to name the activities in the data set
+- Appropriately labels the data set with descriptive variable names. 
+- Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
 ## Additional Information and Important points for Github R/DataScience community 
 
 More details regarding the run_analysis program and the steps performed for this project can be found in   
-CookBook.Rmd in the same repository. Data cleaning steps, description of variable names, transformations and   
+**CookBook.md** in the same repository. Data cleaning steps, description of variable names, transformations and   
 Steps performed are documented as well in the CookBook document.
 
-*Important* : The author has hard coded the working directory assertions in the run_analysis.R program in   
+**Important** : The author has hard coded the working directory assertions in the **run_analysis.R** program in   
 line#23. Might need modifications to reset the working directory for code compatibility for other mac users.

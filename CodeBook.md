@@ -2,7 +2,7 @@
 title: "CodeBook.md"
 author: "Buva Ramamoorthy"
 date: "July 23, 2014"
-output: "html_document"
+output: MarkDown Document
 ----------------------------------------------->
         
 # **Getting and Cleaning Data - Course Project**
