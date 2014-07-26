@@ -5,9 +5,9 @@ date: "July 23, 2014"
 output: html_document
 ------------------------------------------------------->
         
-#** Getting and Cleaning Data - Course Project **
+# **Getting and Cleaning Data - Course Project**
         
-* by Buva Ramamoorthy *
+*by Buva Ramamoorthy*
         
 This is a repository which is created for the project submission for the course Getting and Cleaning Data  
 by John Hopkins University
